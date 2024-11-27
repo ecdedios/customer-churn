@@ -12,6 +12,8 @@ This project represent the exploration of the dataset and prediction of whether 
 
 data/in/
 
+https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset/data
+
 ## Reference
 
 https://www.kaggle.com/code/abhashrai/customer-retention-analysis-prediction
