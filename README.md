@@ -22,7 +22,12 @@ https://www.kaggle.com/code/abhashrai/customer-retention-analysis-prediction
 
 Written in Python 3.12. Some technologies used:
 
+- jupyter notebook
 - pandas
+- matplotlib
+- seaborn
+- scikit learn
+- xgboost
 
 To see the project in action, open and run the notebooks.
 
